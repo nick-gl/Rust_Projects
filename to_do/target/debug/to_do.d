@@ -1,0 +1,1 @@
+C:\Users\small\Downloads\projects\Rust_Projects\to_do\target\debug\to_do.exe: C:\Users\small\Downloads\projects\Rust_Projects\to_do\src\lib.rs C:\Users\small\Downloads\projects\Rust_Projects\to_do\src\main.rs
